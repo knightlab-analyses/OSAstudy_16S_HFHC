@@ -1,0 +1,38 @@
+#SampleID	diet_exp	diet	exposure_type	cage_number
+Mouse 100	HFD_IHC	High Fat Diet	IHC	A18
+Mouse 101	HFD_IHC	High Fat Diet	IHC	A19
+Mouse 102	HFD_IHC	High Fat Diet	IHC	A19
+Mouse 103	HFD_IHC	High Fat Diet	IHC	A19
+Mouse 104	HFD_IHC	High Fat Diet	IHC	A19
+Mouse 105	HFD_IHC	High Fat Diet	IHC	A20
+Mouse 106	HFD_IHC	High Fat Diet	IHC	A20
+Mouse 107	HFD_IHC	High Fat Diet	IHC	A20
+Mouse 108	HFD_IHC	High Fat Diet	IHC	A20
+Mouse 109	HFD_AIR	High Fat Diet	AIR	A21
+Mouse 110	HFD_AIR	High Fat Diet	AIR	A21
+Mouse 111	HFD_AIR	High Fat Diet	AIR	A21
+Mouse 112	HFD_AIR	High Fat Diet	AIR	A21
+Mouse 113	HFD_AIR	High Fat Diet	AIR	A22
+Mouse 114	HFD_AIR	High Fat Diet	AIR	A22
+Mouse 115	HFD_AIR	High Fat Diet	AIR	A22
+Mouse 116	HFD_AIR	High Fat Diet	AIR	A22
+Mouse 117	HFD_AIR	High Fat Diet	AIR	A23
+Mouse 118	HFD_AIR	High Fat Diet	AIR	A23
+Mouse 119	HFD_AIR	High Fat Diet	AIR	A23
+Mouse 120	HFD_AIR	High Fat Diet	AIR	A23
+Mouse 85	RC_AIR	Regular chow	AIR	A15
+Mouse 86	RC_AIR	Regular chow	AIR	A15
+Mouse 87	RC_AIR	Regular chow	AIR	A15
+Mouse 88	RC_AIR	Regular chow	AIR	A15
+Mouse 89	RC_AIR	Regular chow	AIR	A16
+Mouse 90	RC_AIR	Regular chow	AIR	A16
+Mouse 91	RC_AIR	Regular chow	AIR	A16
+Mouse 92	RC_AIR	Regular chow	AIR	A16
+Mouse 93	RC_AIR	Regular chow	AIR	A17
+Mouse 94	RC_AIR	Regular chow	AIR	A17
+Mouse 95	RC_AIR	Regular chow	AIR	A17
+Mouse 96	RC_AIR	Regular chow	AIR	A17
+Mouse 97	HFD_IHC	High Fat Diet	IHC	A18
+Mouse 98	HFD_IHC	High Fat Diet	IHC	A18
+Mouse 99	HFD_IHC	High Fat Diet	IHC	A18
+not applicable	BLANK	not applicable		BLANK

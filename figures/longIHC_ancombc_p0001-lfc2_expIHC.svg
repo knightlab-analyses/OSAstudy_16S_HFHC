@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="2415.18375pt" height="646.263281pt" viewBox="0 0 2415.18375 646.263281" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-07-09T16:22:16.969135</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 646.263281 
+L 2415.18375 646.263281 
+L 2415.18375 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 1291.98375 561.6 
+L 2407.98375 561.6 
+L 2407.98375 7.2 
+L 1291.98375 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: middle" x="1462.108474" y="594.720781" transform="rotate(-0 1462.108474 594.720781)">−4</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: middle" x="1664.425947" y="594.720781" transform="rotate(-0 1664.425947 594.720781)">−2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: middle" x="1866.74342" y="594.720781" transform="rotate(-0 1866.74342 594.720781)">0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: middle" x="2069.060893" y="594.720781" transform="rotate(-0 2069.060893 594.720781)">2</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="text_5">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: middle" x="2271.378366" y="594.720781" transform="rotate(-0 2271.378366 594.720781)">4</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="fill: #262626; font: 36px 'sans-serif'; text-anchor: middle" x="1849.98375" y="631.486406" transform="rotate(-0 1849.98375 631.486406)">Log Fold Change (LFC)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_7">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="53.861484" transform="rotate(-0 1282.48375 53.861484)"> f__Erysipelotrichaceae; g__Dubosiella; s__Dubosiella newyorkensis</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_8">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="123.161484" transform="rotate(-0 1282.48375 123.161484)"> f__Clostridiaceae_222000; g__Clostridium_T; s__Clostridium_T disporicum_203972</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_9">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="192.461484" transform="rotate(-0 1282.48375 192.461484)"> f__Muribaculaceae; g__UBA7173; s__</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_10">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="261.761484" transform="rotate(-0 1282.48375 261.761484)"> f__Muribaculaceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_11">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="331.071797" transform="rotate(-0 1282.48375 331.071797)"> f__Lachnospiraceae; g__COE1; s__</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_12">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="400.361484" transform="rotate(-0 1282.48375 400.361484)"> f__Turicibacteraceae; g__Turicibacter; s__</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_13">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="469.661484" transform="rotate(-0 1282.48375 469.661484)"> f__Coprobacillaceae; g__Fimiplasma; s__Fimiplasma intestinipullorum</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_14">
+      <text style="fill: #262626; font: 33px 'sans-serif'; text-anchor: end" x="1282.48375" y="538.961484" transform="rotate(-0 1282.48375 538.961484)"> f__Lachnospiraceae; g__UBA9414; s__</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="fill: #262626; font: 36px 'sans-serif'; text-anchor: middle" x="33.406875" y="284.4" transform="rotate(-90 33.406875 284.4)">f_g_s</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 1866.74342 14.13 
+L 1342.711023 14.13 
+L 1342.711023 69.57 
+L 1866.74342 69.57 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1866.74342 83.43 
+L 1389.72253 83.43 
+L 1389.72253 138.87 
+L 1866.74342 138.87 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 1866.74342 152.73 
+L 1486.750385 152.73 
+L 1486.750385 208.17 
+L 1866.74342 208.17 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 1866.74342 222.03 
+L 1580.186297 222.03 
+L 1580.186297 277.47 
+L 1866.74342 277.47 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 1866.74342 291.33 
+L 1594.290429 291.33 
+L 1594.290429 346.77 
+L 1866.74342 346.77 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 1866.74342 360.63 
+L 1619.797847 360.63 
+L 1619.797847 416.07 
+L 1866.74342 416.07 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 1866.74342 429.93 
+L 2082.323326 429.93 
+L 2082.323326 485.37 
+L 1866.74342 485.37 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 1866.74342 499.23 
+L 2357.256477 499.23 
+L 2357.256477 554.67 
+L 1866.74342 554.67 
+z
+" clip-path="url(#p1d08eb50be)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path clip-path="url(#p1d08eb50be)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 1291.98375 561.6 
+L 1291.98375 7.2 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 2407.98375 561.6 
+L 2407.98375 7.2 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 1291.98375 561.6 
+L 2407.98375 561.6 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 1291.98375 7.2 
+L 2407.98375 7.2 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p1d08eb50be">
+   <rect x="1291.98375" y="7.2" width="1116" height="554.4"/>
+  </clipPath>
+ </defs>
+</svg>

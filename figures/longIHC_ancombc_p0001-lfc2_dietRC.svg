@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1874.429766pt" height="1168.681641pt" viewBox="0 0 1874.429766 1168.681641" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-07-09T16:22:44.367973</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1168.681641 
+L 1874.429766 1168.681641 
+L 1874.429766 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 751.229766 1116 
+L 1867.229766 1116 
+L 1867.229766 7.2 
+L 751.229766 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="text_1">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: middle" x="976.350473" y="1137.310391" transform="rotate(-0 976.350473 1137.310391)">−4</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="text_2">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: middle" x="1205.356155" y="1137.310391" transform="rotate(-0 1205.356155 1137.310391)">−2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="text_3">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: middle" x="1434.361837" y="1137.310391" transform="rotate(-0 1434.361837 1137.310391)">0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="text_4">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: middle" x="1663.367519" y="1137.310391" transform="rotate(-0 1663.367519 1137.310391)">2</text>
+     </g>
+    </g>
+    <g id="text_5">
+     <text style="fill: #262626; font: 18px 'sans-serif'; text-anchor: middle" x="1309.229766" y="1157.693203" transform="rotate(-0 1309.229766 1157.693203)">Log Fold Change (LFC)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="text_6">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="21.480369" transform="rotate(-0 741.729766 21.480369)">39  f__Streptococcaceae; g__Lactococcus_A_346120; s__Lactococcus_A_346120 lactis_346025</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="text_7">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="38.029623" transform="rotate(-0 741.729766 38.029623)">40  f__Peptostreptococcaceae_256921; g__Romboutsia_B; s__Romboutsia_B ilealis</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="text_8">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="54.578877" transform="rotate(-0 741.729766 54.578877)">43  f__Clostridiaceae_222000; g__Clostridium_T; s__Clostridium_T disporicum_203972</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="text_9">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="71.12813" transform="rotate(-0 741.729766 71.12813)">41  f__Erysipelotrichaceae; g__Dubosiella; s__Dubosiella newyorkensis</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="text_10">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="87.677384" transform="rotate(-0 741.729766 87.677384)">42  f__Acutalibacteraceae; g__Eubacterium_R; s__Eubacterium_R sp011958665</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="text_11">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="104.226638" transform="rotate(-0 741.729766 104.226638)">14  f__Lachnospiraceae; g__Kineothrix; s__Kineothrix sp000403275</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="text_12">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="120.775891" transform="rotate(-0 741.729766 120.775891)">52  f__Peptostreptococcaceae_256921; g__Romboutsia_B; s__Romboutsia_B ilealis</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="text_13">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="137.325145" transform="rotate(-0 741.729766 137.325145)">61  f__Lachnospiraceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="text_14">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="153.879555" transform="rotate(-0 741.729766 153.879555)">31  f__Oscillospiraceae_88309; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="text_15">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="170.423653" transform="rotate(-0 741.729766 170.423653)">44  f__Lachnospiraceae; g__Sporofaciens; s__</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="text_16">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="186.972906" transform="rotate(-0 741.729766 186.972906)">26  f__Anaerovoracaceae; g__Emergencia; s__Emergencia sp009935805</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="text_17">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="203.52216" transform="rotate(-0 741.729766 203.52216)">46  f__Lachnospiraceae; g__Kineothrix; s__Kineothrix sp000403275</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="text_18">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="220.071414" transform="rotate(-0 741.729766 220.071414)">50  f__Lachnospiraceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="text_19">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="236.620668" transform="rotate(-0 741.729766 236.620668)">62  f__Lachnospiraceae; g__Kineothrix; s__Kineothrix sp000403275</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="text_20">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="253.169921" transform="rotate(-0 741.729766 253.169921)">55  f__Ruminococcaceae; g__Ruthenibacterium; s__Ruthenibacterium lactatiformans</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="text_21">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="269.719175" transform="rotate(-0 741.729766 269.719175)">35  f__Lachnospiraceae; g__Acetatifactor; s__Acetatifactor muris</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="text_22">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="286.268429" transform="rotate(-0 741.729766 286.268429)">51  f__Lachnospiraceae; g__14-2; s__</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="text_23">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="302.817682" transform="rotate(-0 741.729766 302.817682)">47  f__Anaerotignaceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="text_24">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="319.366936" transform="rotate(-0 741.729766 319.366936)">45  f__Coprobacillaceae; g__Erysipelatoclostridium; s__</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="text_25">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="335.91619" transform="rotate(-0 741.729766 335.91619)">66  f__Lachnospiraceae; g__Faecalimonas; s__Faecalimonas umbilicata</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="text_26">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="352.465444" transform="rotate(-0 741.729766 352.465444)">65  f__Ruminococcaceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="text_27">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="369.014697" transform="rotate(-0 741.729766 369.014697)">22  f__Lachnospiraceae; g__Ruminococcus_B; s__</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="text_28">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="385.563951" transform="rotate(-0 741.729766 385.563951)">49  f__Acutalibacteraceae; g__Acutalibacter; s__Acutalibacter muris</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="text_29">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="402.113205" transform="rotate(-0 741.729766 402.113205)">38  f__Muribaculaceae; g__UBA7173; s__UBA7173 sp002491305</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="text_30">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="418.662459" transform="rotate(-0 741.729766 418.662459)">48  f__Lachnospiraceae; g__G11; s__G11 sp900103495</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="text_31">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="435.211712" transform="rotate(-0 741.729766 435.211712)">34  f__Lachnospiraceae; g__Kineothrix; s__Kineothrix sp000403275</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="text_32">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="451.760966" transform="rotate(-0 741.729766 451.760966)">56  f__Lachnospiraceae; g__Merdisoma; s__Merdisoma sp011959465</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="text_33">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="468.315376" transform="rotate(-0 741.729766 468.315376)">18  f__Oscillospiraceae_88309; g__Faecousia; s__Faecousia sp000434635</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="text_34">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="484.859474" transform="rotate(-0 741.729766 484.859474)">60  f__Lachnospiraceae; g__Acetatifactor; s__Acetatifactor muris</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="text_35">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="501.408727" transform="rotate(-0 741.729766 501.408727)">37  f__Lachnospiraceae; g__Eubacterium_J; s__Eubacterium_J plexicaudatum</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="text_36">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="517.957981" transform="rotate(-0 741.729766 517.957981)">11  f__Lachnospiraceae; g__Merdisoma; s__Merdisoma sp011959465</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="text_37">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="534.507235" transform="rotate(-0 741.729766 534.507235)">59  f__Coprobacillaceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="text_38">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="551.061645" transform="rotate(-0 741.729766 551.061645)">54  f__Lachnospiraceae; g__COE1; s__COE1 sp000403335</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="text_39">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="567.605742" transform="rotate(-0 741.729766 567.605742)">28  f__Lachnospiraceae; g__G11; s__G11 sp900103495</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="text_40">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="584.154996" transform="rotate(-0 741.729766 584.154996)">23  f__Acutalibacteraceae; g__Caproiciproducens; s__</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="text_41">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="600.70425" transform="rotate(-0 741.729766 600.70425)">58  f__Lachnospiraceae; g__Kineothrix; s__Kineothrix sp000403275</text>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="text_42">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="617.253503" transform="rotate(-0 741.729766 617.253503)">24  f__Bifidobacteriaceae; g__Bifidobacterium_388775; s__Bifidobacterium choerinum</text>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="text_43">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="633.807913" transform="rotate(-0 741.729766 633.807913)">5  f__Lachnospiraceae; g__COE1; s__</text>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="text_44">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="650.352011" transform="rotate(-0 741.729766 650.352011)">20  f__Turicibacteraceae; g__Turicibacter; s__</text>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="text_45">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="666.901265" transform="rotate(-0 741.729766 666.901265)">63  f__Ruminococcaceae; g__Anaerotruncus; s__Anaerotruncus colihominis</text>
+     </g>
+    </g>
+    <g id="ytick_41">
+     <g id="text_46">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="683.450518" transform="rotate(-0 741.729766 683.450518)">4  f__Akkermansiaceae; g__Akkermansia; s__Akkermansia muciniphila_D_776786</text>
+     </g>
+    </g>
+    <g id="ytick_42">
+     <g id="text_47">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="700.004928" transform="rotate(-0 741.729766 700.004928)">25  f__Oscillospiraceae_88309; g__Limivicinus; s__Limivicinus sp002320035</text>
+     </g>
+    </g>
+    <g id="ytick_43">
+     <g id="text_48">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="716.549026" transform="rotate(-0 741.729766 716.549026)">30  f__Eggerthellaceae; g__Adlercreutzia_404199; s__</text>
+     </g>
+    </g>
+    <g id="ytick_44">
+     <g id="text_49">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="733.09828" transform="rotate(-0 741.729766 733.09828)">36  f__Lachnospiraceae; g__Butyribacter; s__Butyribacter intestini</text>
+     </g>
+    </g>
+    <g id="ytick_45">
+     <g id="text_50">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="749.647533" transform="rotate(-0 741.729766 749.647533)">53  f__Lachnospiraceae; g__Roseburia; s__Roseburia intestinalis</text>
+     </g>
+    </g>
+    <g id="ytick_46">
+     <g id="text_51">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="766.196787" transform="rotate(-0 741.729766 766.196787)">27  f__Lachnospiraceae; g__Schaedlerella; s__</text>
+     </g>
+    </g>
+    <g id="ytick_47">
+     <g id="text_52">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="782.746041" transform="rotate(-0 741.729766 782.746041)">57  f__Lachnospiraceae; g__Schaedlerella; s__</text>
+     </g>
+    </g>
+    <g id="ytick_48">
+     <g id="text_53">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="799.295294" transform="rotate(-0 741.729766 799.295294)">64  f__Coprobacillaceae; g__Erysipelatoclostridium; s__</text>
+     </g>
+    </g>
+    <g id="ytick_49">
+     <g id="text_54">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="815.844548" transform="rotate(-0 741.729766 815.844548)">32  f__Lachnospiraceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_50">
+     <g id="text_55">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="832.393802" transform="rotate(-0 741.729766 832.393802)">10  f__Lachnospiraceae; g__Ventrimonas; s__Ventrimonas sp003611875</text>
+     </g>
+    </g>
+    <g id="ytick_51">
+     <g id="text_56">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="848.943056" transform="rotate(-0 741.729766 848.943056)">19  f__Lachnospiraceae; g__CAG-194; s__CAG-194 sp000432915</text>
+     </g>
+    </g>
+    <g id="ytick_52">
+     <g id="text_57">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="865.492309" transform="rotate(-0 741.729766 865.492309)">2  f__Muribaculaceae; g__UBA7173; s__</text>
+     </g>
+    </g>
+    <g id="ytick_53">
+     <g id="text_58">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="882.041563" transform="rotate(-0 741.729766 882.041563)">29  f__Lachnospiraceae; g__Lachnospira; s__</text>
+     </g>
+    </g>
+    <g id="ytick_54">
+     <g id="text_59">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="898.590817" transform="rotate(-0 741.729766 898.590817)">33  f__Lachnospiraceae; g__CAG-95; s__CAG-95 sp009917455</text>
+     </g>
+    </g>
+    <g id="ytick_55">
+     <g id="text_60">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="915.140071" transform="rotate(-0 741.729766 915.140071)">8  f__Lachnospiraceae; g__Eisenbergiella; s__</text>
+     </g>
+    </g>
+    <g id="ytick_56">
+     <g id="text_61">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="931.689324" transform="rotate(-0 741.729766 931.689324)">17  f__Lachnospiraceae; g__Enterocloster; s__Enterocloster sp000431375</text>
+     </g>
+    </g>
+    <g id="ytick_57">
+     <g id="text_62">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="948.238578" transform="rotate(-0 741.729766 948.238578)">21  f__Lachnospiraceae; g__UBA3282; s__UBA3282 sp003611805</text>
+     </g>
+    </g>
+    <g id="ytick_58">
+     <g id="text_63">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="964.787832" transform="rotate(-0 741.729766 964.787832)">3  f__Anaeroplasmataceae; g__Pelethenecus; s__</text>
+     </g>
+    </g>
+    <g id="ytick_59">
+     <g id="text_64">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="981.337085" transform="rotate(-0 741.729766 981.337085)">9  f__UBA660; g__UBA6985; s__UBA6985 sp900314465</text>
+     </g>
+    </g>
+    <g id="ytick_60">
+     <g id="text_65">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="997.886339" transform="rotate(-0 741.729766 997.886339)">0  f__Muribaculaceae; g__; s__</text>
+     </g>
+    </g>
+    <g id="ytick_61">
+     <g id="text_66">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1014.435593" transform="rotate(-0 741.729766 1014.435593)">12  f__Lachnospiraceae; g__Acetatifactor; s__Acetatifactor sp900066565</text>
+     </g>
+    </g>
+    <g id="ytick_62">
+     <g id="text_67">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1030.984847" transform="rotate(-0 741.729766 1030.984847)">1  f__Rikenellaceae; g__Alistipes_A_871400; s__</text>
+     </g>
+    </g>
+    <g id="ytick_63">
+     <g id="text_68">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1047.5341" transform="rotate(-0 741.729766 1047.5341)">15  f__Acutalibacteraceae; g__Acutalibacter; s__Acutalibacter muris</text>
+     </g>
+    </g>
+    <g id="ytick_64">
+     <g id="text_69">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1064.083354" transform="rotate(-0 741.729766 1064.083354)">16  f__Lachnospiraceae; g__UBA3282; s__UBA3282 sp003611805</text>
+     </g>
+    </g>
+    <g id="ytick_65">
+     <g id="text_70">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1080.632608" transform="rotate(-0 741.729766 1080.632608)">7  f__Lachnospiraceae; g__Enterocloster; s__</text>
+     </g>
+    </g>
+    <g id="ytick_66">
+     <g id="text_71">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1097.181862" transform="rotate(-0 741.729766 1097.181862)">6  f__Lachnospiraceae; g__Eubacterium_G; s__</text>
+     </g>
+    </g>
+    <g id="ytick_67">
+     <g id="text_72">
+      <text style="fill: #262626; font: 16.5px 'sans-serif'; text-anchor: end" x="741.729766" y="1113.736272" transform="rotate(-0 741.729766 1113.736272)">13  f__Lachnospiraceae; g__COE1; s__</text>
+     </g>
+    </g>
+    <g id="text_73">
+     <text style="fill: #262626; font: 18px 'sans-serif'; text-anchor: middle" x="20.303437" y="561.6" transform="rotate(-90 20.303437 561.6)">f_g_s</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 1434.361837 8.854925 
+L 801.957038 8.854925 
+L 801.957038 22.094328 
+L 1434.361837 22.094328 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 1434.361837 25.404179 
+L 806.865843 25.404179 
+L 806.865843 38.643582 
+L 1434.361837 38.643582 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 1434.361837 41.953433 
+L 871.648413 41.953433 
+L 871.648413 55.192836 
+L 1434.361837 55.192836 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 1434.361837 58.502687 
+L 877.552564 58.502687 
+L 877.552564 71.74209 
+L 1434.361837 71.74209 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 1434.361837 75.05194 
+L 888.75162 75.05194 
+L 888.75162 88.291343 
+L 1434.361837 88.291343 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 1434.361837 91.601194 
+L 891.716683 91.601194 
+L 891.716683 104.840597 
+L 1434.361837 104.840597 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 1434.361837 108.150448 
+L 973.830745 108.150448 
+L 973.830745 121.389851 
+L 1434.361837 121.389851 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 1434.361837 124.699701 
+L 1006.175019 124.699701 
+L 1006.175019 137.939104 
+L 1434.361837 137.939104 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 1434.361837 141.248955 
+L 1010.382103 141.248955 
+L 1010.382103 154.488358 
+L 1434.361837 154.488358 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 1434.361837 157.798209 
+L 1013.630442 157.798209 
+L 1013.630442 171.037612 
+L 1434.361837 171.037612 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 1434.361837 174.347463 
+L 1020.64483 174.347463 
+L 1020.64483 187.586866 
+L 1434.361837 187.586866 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 1434.361837 190.896716 
+L 1021.506696 190.896716 
+L 1021.506696 204.136119 
+L 1434.361837 204.136119 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 1434.361837 207.44597 
+L 1032.526293 207.44597 
+L 1032.526293 220.685373 
+L 1434.361837 220.685373 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 1434.361837 223.995224 
+L 1045.257212 223.995224 
+L 1045.257212 237.234627 
+L 1434.361837 237.234627 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 1434.361837 240.544478 
+L 1045.331184 240.544478 
+L 1045.331184 253.783881 
+L 1434.361837 253.783881 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 1434.361837 257.093731 
+L 1046.96463 257.093731 
+L 1046.96463 270.333134 
+L 1434.361837 270.333134 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 1434.361837 273.642985 
+L 1051.430851 273.642985 
+L 1051.430851 286.882388 
+L 1434.361837 286.882388 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 1434.361837 290.192239 
+L 1053.580843 290.192239 
+L 1053.580843 303.431642 
+L 1434.361837 303.431642 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 1434.361837 306.741493 
+L 1070.005418 306.741493 
+L 1070.005418 319.980896 
+L 1434.361837 319.980896 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 1434.361837 323.290746 
+L 1071.087947 323.290746 
+L 1071.087947 336.530149 
+L 1434.361837 336.530149 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 1434.361837 339.84 
+L 1094.961487 339.84 
+L 1094.961487 353.079403 
+L 1434.361837 353.079403 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 1434.361837 356.389254 
+L 1106.097103 356.389254 
+L 1106.097103 369.628657 
+L 1434.361837 369.628657 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 1434.361837 372.938507 
+L 1113.839611 372.938507 
+L 1113.839611 386.17791 
+L 1434.361837 386.17791 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 1434.361837 389.487761 
+L 1115.618093 389.487761 
+L 1115.618093 402.727164 
+L 1434.361837 402.727164 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 1434.361837 406.037015 
+L 1116.145578 406.037015 
+L 1116.145578 419.276418 
+L 1434.361837 419.276418 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 1434.361837 422.586269 
+L 1118.282985 422.586269 
+L 1118.282985 435.825672 
+L 1434.361837 435.825672 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 1434.361837 439.135522 
+L 1129.726004 439.135522 
+L 1129.726004 452.374925 
+L 1434.361837 452.374925 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 1434.361837 455.684776 
+L 1135.702622 455.684776 
+L 1135.702622 468.924179 
+L 1434.361837 468.924179 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 1434.361837 472.23403 
+L 1136.867175 472.23403 
+L 1136.867175 485.473433 
+L 1434.361837 485.473433 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 1434.361837 488.783284 
+L 1142.069619 488.783284 
+L 1142.069619 502.022687 
+L 1434.361837 502.022687 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 1434.361837 505.332537 
+L 1156.096752 505.332537 
+L 1156.096752 518.57194 
+L 1434.361837 518.57194 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 1434.361837 521.881791 
+L 1158.897182 521.881791 
+L 1158.897182 535.121194 
+L 1434.361837 535.121194 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 1434.361837 538.431045 
+L 1164.431645 538.431045 
+L 1164.431645 551.670448 
+L 1434.361837 551.670448 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 1434.361837 554.980299 
+L 1168.137026 554.980299 
+L 1168.137026 568.219701 
+L 1434.361837 568.219701 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_37">
+    <path d="M 1434.361837 571.529552 
+L 1169.926988 571.529552 
+L 1169.926988 584.768955 
+L 1434.361837 584.768955 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_38">
+    <path d="M 1434.361837 588.078806 
+L 1173.249112 588.078806 
+L 1173.249112 601.318209 
+L 1434.361837 601.318209 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 1434.361837 604.62806 
+L 1179.555473 604.62806 
+L 1179.555473 617.867463 
+L 1434.361837 617.867463 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_40">
+    <path d="M 1434.361837 621.177313 
+L 1188.624568 621.177313 
+L 1188.624568 634.416716 
+L 1434.361837 634.416716 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_41">
+    <path d="M 1434.361837 637.726567 
+L 1188.823128 637.726567 
+L 1188.823128 650.96597 
+L 1434.361837 650.96597 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_42">
+    <path d="M 1434.361837 654.275821 
+L 1190.256385 654.275821 
+L 1190.256385 667.515224 
+L 1434.361837 667.515224 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_43">
+    <path d="M 1434.361837 670.825075 
+L 1191.088179 670.825075 
+L 1191.088179 684.064478 
+L 1434.361837 684.064478 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_44">
+    <path d="M 1434.361837 687.374328 
+L 1191.402787 687.374328 
+L 1191.402787 700.613731 
+L 1434.361837 700.613731 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_45">
+    <path d="M 1434.361837 703.923582 
+L 1194.980717 703.923582 
+L 1194.980717 717.162985 
+L 1434.361837 717.162985 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_46">
+    <path d="M 1434.361837 720.472836 
+L 1197.314325 720.472836 
+L 1197.314325 733.712239 
+L 1434.361837 733.712239 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_47">
+    <path d="M 1434.361837 737.02209 
+L 1197.866706 737.02209 
+L 1197.866706 750.261493 
+L 1434.361837 750.261493 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_48">
+    <path d="M 1434.361837 753.571343 
+L 1201.454941 753.571343 
+L 1201.454941 766.810746 
+L 1434.361837 766.810746 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_49">
+    <path d="M 1434.361837 770.120597 
+L 1204.463366 770.120597 
+L 1204.463366 783.36 
+L 1434.361837 783.36 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_50">
+    <path d="M 1434.361837 786.669851 
+L 1205.273637 786.669851 
+L 1205.273637 799.909254 
+L 1434.361837 799.909254 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #963939; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_51">
+    <path d="M 1434.361837 803.219104 
+L 1664.766433 803.219104 
+L 1664.766433 816.458507 
+L 1434.361837 816.458507 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_52">
+    <path d="M 1434.361837 819.768358 
+L 1664.89935 819.768358 
+L 1664.89935 833.007761 
+L 1434.361837 833.007761 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_53">
+    <path d="M 1434.361837 836.317612 
+L 1665.64964 836.317612 
+L 1665.64964 849.557015 
+L 1434.361837 849.557015 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_54">
+    <path d="M 1434.361837 852.866866 
+L 1671.836626 852.866866 
+L 1671.836626 866.106269 
+L 1434.361837 866.106269 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_55">
+    <path d="M 1434.361837 869.416119 
+L 1677.760305 869.416119 
+L 1677.760305 882.655522 
+L 1434.361837 882.655522 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_56">
+    <path d="M 1434.361837 885.965373 
+L 1678.460702 885.965373 
+L 1678.460702 899.204776 
+L 1434.361837 899.204776 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_57">
+    <path d="M 1434.361837 902.514627 
+L 1692.134305 902.514627 
+L 1692.134305 915.75403 
+L 1434.361837 915.75403 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_58">
+    <path d="M 1434.361837 919.063881 
+L 1692.932424 919.063881 
+L 1692.932424 932.303284 
+L 1434.361837 932.303284 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_59">
+    <path d="M 1434.361837 935.613134 
+L 1710.595463 935.613134 
+L 1710.595463 948.852537 
+L 1434.361837 948.852537 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_60">
+    <path d="M 1434.361837 952.162388 
+L 1711.534574 952.162388 
+L 1711.534574 965.401791 
+L 1434.361837 965.401791 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_61">
+    <path d="M 1434.361837 968.711642 
+L 1713.25214 968.711642 
+L 1713.25214 981.951045 
+L 1434.361837 981.951045 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_62">
+    <path d="M 1434.361837 985.260896 
+L 1728.507383 985.260896 
+L 1728.507383 998.500299 
+L 1434.361837 998.500299 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_63">
+    <path d="M 1434.361837 1001.810149 
+L 1736.43897 1001.810149 
+L 1736.43897 1015.049552 
+L 1434.361837 1015.049552 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_64">
+    <path d="M 1434.361837 1018.359403 
+L 1741.221076 1018.359403 
+L 1741.221076 1031.598806 
+L 1434.361837 1031.598806 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_65">
+    <path d="M 1434.361837 1034.908657 
+L 1747.96625 1034.908657 
+L 1747.96625 1048.14806 
+L 1434.361837 1048.14806 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_66">
+    <path d="M 1434.361837 1051.45791 
+L 1751.31262 1051.45791 
+L 1751.31262 1064.697313 
+L 1434.361837 1064.697313 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_67">
+    <path d="M 1434.361837 1068.007164 
+L 1755.854602 1068.007164 
+L 1755.854602 1081.246567 
+L 1434.361837 1081.246567 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_68">
+    <path d="M 1434.361837 1084.556418 
+L 1793.372692 1084.556418 
+L 1793.372692 1097.795821 
+L 1434.361837 1097.795821 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_69">
+    <path d="M 1434.361837 1101.105672 
+L 1816.502493 1101.105672 
+L 1816.502493 1114.345075 
+L 1434.361837 1114.345075 
+z
+" clip-path="url(#p67c8ec6ea3)" style="fill: #107070; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_14">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_15">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_16">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_17">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_18">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_19">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_20">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_21">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_22">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_23">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_24">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_25">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_26">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_27">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_28">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_29">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_30">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_31">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_32">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_33">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_34">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_35">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_36">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_37">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_38">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_39">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_40">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_41">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_42">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_43">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_44">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_45">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_46">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_47">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_48">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_49">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_50">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_51">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_52">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_53">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_54">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_55">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_56">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_57">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_58">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_59">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_60">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_61">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_62">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_63">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_64">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_65">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_66">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_67">
+    <path clip-path="url(#p67c8ec6ea3)" style="fill: none; stroke: #424242; stroke-width: 2.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_70">
+    <path d="M 751.229766 1116 
+L 751.229766 7.2 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_71">
+    <path d="M 1867.229766 1116 
+L 1867.229766 7.2 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_72">
+    <path d="M 751.229766 1116 
+L 1867.229766 1116 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_73">
+    <path d="M 751.229766 7.2 
+L 1867.229766 7.2 
+" style="fill: none; stroke: #262626; stroke-width: 1.25; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p67c8ec6ea3">
+   <rect x="751.229766" y="7.2" width="1116" height="1108.8"/>
+  </clipPath>
+ </defs>
+</svg>
